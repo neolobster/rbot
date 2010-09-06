@@ -5,7 +5,7 @@
 #
 # Author:: Carter Parks (carterparks) <carter@carterparks.com>
 # Author:: Giuseppe "Oblomov" Bilotta <giuseppe.bilotta@gmail.com>
-# Author:: Joshua Mullin <neolobster@snugglenets.com>
+# Author:: NeoLobster <neolobster@snugglenets.com>
 #
 # Copyright:: (C) 2007 Carter Parks
 # Copyright:: (C) 2007 Giuseppe Bilotta
